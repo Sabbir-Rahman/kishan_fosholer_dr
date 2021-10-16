@@ -4,7 +4,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/p1jKzzT/Screenshot-from-2021-10-17-00-16-50.png" alt="Screenshot-from-2021-10-17-00-16-50" border="0"></a>
 
 ## Datasets link (around 5000+ images)
-https://drive.google.com/drive/folders/1h1K44i04okREV64N2ylViTy74AHxJt4x?usp=sharing
+https://data.mendeley.com/datasets/fwcj7stb8r/1
 
 ## Google colab link
 https://colab.research.google.com/drive/1l-6L_NU2uzmX_G3Ob9UYZkgaefESgsl5?usp=sharing
