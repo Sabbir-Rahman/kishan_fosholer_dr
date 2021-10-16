@@ -1,7 +1,7 @@
 # kishan_fosholer_dr
 
 ### loss: 0.0147 - accuracy: 0.9973 - val_loss: 0.0216 - val_accuracy: 0.9958 for 7 epoch
-![alt text](https://drive.google.com/file/d/1Dar0VTO-sJq1uL8SBQ2im0sMWp39z5pd/view?usp=sharing)
+![alt text](https://ibb.co/grZWTT8)
 
 ## Datasets link
 https://drive.google.com/drive/folders/1h1K44i04okREV64N2ylViTy74AHxJt4x?usp=sharing
